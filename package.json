@@ -1,0 +1,17 @@
+{
+  "name": "testprj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@atoy40/ccfitsjs": "file:../../ccfitsjs",
+    "@atoy40/stellarsolverjs": "file:../../stellarsolverjs",
+    "bindings": "^1.5.0",
+    "canvas": "^2.11.2"
+  }
+}
